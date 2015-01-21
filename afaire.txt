@@ -1,0 +1,17 @@
+Faire la page de contact avec .... juste mon nom?
+
+vérification d'une description,.... pour les produit
+rajouter la vérification des chaine de caracterer eviter injection
+
+
+
+/variable 
+Id_pro
+Id_save
+$_session['connection'];
+
+<?php/* foreach($produit->getCategorie as $i => $cate){
+                                                                                            if ($i != 0) echo ','; 
+                                                                                            echo ' ' . $cate->getNom(); 
+                                                                                        }
+                                                                                        */?>
